@@ -3,10 +3,11 @@ html {
 }
 
 body {
-    width: 80%;
+    width: 75%;
     margin: 0px auto;
 }
 
 table {
     width: 50%;
+    float: left;
 }
