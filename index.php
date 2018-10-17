@@ -55,6 +55,10 @@
                 <td colspan="2" class="subheader"><center>Week 3</center></td>
             </tr>
             <tr>
+                <td><a href="http://ict.neit.edu/008000162/public_html/SE266/SE266/Week3/crud.php">CRUD</a></td>
+                <td><a href="http://ict.neit.edu/008000162/public_html/SE266/SE266/Week3/crud.zip">Zip File</a></td>
+            </tr>
+            <tr>
                 <td colspan="2" class="subheader"><center>Week 4</center></td>
             </tr>
             <tr>

@@ -72,7 +72,10 @@ and open the template in the editor.
                 <?php foreach ($results as $row): ?>
                 <tr>
                     <td><?php echo $row['corp']; ?></td>
-                    <td><?php echo $row['incorp_dt']; ?></td>
+                    <td><?php
+                        $date = $row['incorp_dt'];
+                        $mod_date=date("m-d-Y", strtotime($date));
+                        echo $mod_date; ?></td>
                     <td><?php echo $row['email']; ?></td>
                     <td><?php echo $row['zipcode']; ?></td>
                     <td><?php echo $row['owner']; ?></td>
