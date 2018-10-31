@@ -69,6 +69,10 @@
                 <td colspan="2" class="subheader"><center>Week 5</center></td>
             </tr>
             <tr>
+                <td><a href="http://ict.neit.edu/008000162/public_html/SE266/SE266/Week5/login.php">School Search</a></td>
+                <td><a href="http://ict.neit.edu/008000162/public_html/SE266/SE266/Week5/schools.zip">Zip File</a></td>
+            </tr>
+            <tr>
                 <td colspan="2" class="subheader"><center>Week 6</center></td>
             </tr>
             <tr>
