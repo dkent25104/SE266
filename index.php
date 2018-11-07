@@ -76,6 +76,10 @@
                 <td colspan="2" class="subheader"><center>Week 6</center></td>
             </tr>
             <tr>
+                <td><a href="http://ict.neit.edu/008000162/public_html/SE266/SE266/Week6/Prototype/prototype.html">Time Card Prototype</a></td>
+                <td><a href="http://ict.neit.edu/008000162/public_html/SE266/SE266/Week5/Prototype/prototype.zip">Zip File</a></td>
+            </tr>
+            <tr>
                 <td colspan="2" class="subheader"><center>Week 7</center></td>
             </tr>
             <tr>
