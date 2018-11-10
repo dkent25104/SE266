@@ -1,0 +1,23 @@
+Functions:
+
+isPostRequest - checks whether a form sumbit is a post method
+
+isGetRequest - checks whether a from sumbit is a get method
+
+addProject - uses SQL Insert statement to add a record to the project database
+
+updateProject - uses SQL Update statement to update project name, time spent, checked in or out, etc.
+
+delete Project - uses SQL Delete statement to delete a project from the database
+
+getCurrentTime - returns the current time to be used when calculating time spent on projects
+
+timeSpent - calculates the time between the clock in and clock out
+
+getAllProjects - returns an array of all the projects stored in the database
+
+getOneProject - returns one project based on id of project
+
+clockIn - updates project in database and sets working = true and clockIn = the current time
+
+clockOut - updates project in database and sets working = false, totalTime += timeSpent(), timeSinceClockIn = timeSpent(), and clockIn is then erased
