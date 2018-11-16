@@ -15,7 +15,7 @@
         <table>
 			<tr>
 				<th>Assignment Links</th>
-				<th>Zipped Solutions</th>
+				<th>File Downloads</th>
 			</tr>
             <tr>
                 <td colspan="2" class="subheader"><center>Week 1</center></td>
@@ -63,7 +63,7 @@
             </tr>
             <tr>
                 <td><a href="http://ict.neit.edu/008000162/public_html/SE266/SE266/Week4/corps.php">Corp Search/Sort</a></td>
-                <td><a href="http://ict.neit.edu/008000162/public_html/SE266/SE266/Week3/corps.zip">Zip File</a></td>
+                <td><a href="http://ict.neit.edu/008000162/public_html/SE266/SE266/Week4/corps.zip">Zip File</a></td>
             </tr>
             <tr>
                 <td colspan="2" class="subheader"><center>Week 5</center></td>
@@ -77,10 +77,22 @@
             </tr>
             <tr>
                 <td><a href="http://ict.neit.edu/008000162/public_html/SE266/SE266/Week6/Prototype/prototype.html">Time Card Prototype</a></td>
-                <td><a href="http://ict.neit.edu/008000162/public_html/SE266/SE266/Week5/Prototype/prototype.zip">Zip File</a></td>
+                <td><a href="http://ict.neit.edu/008000162/public_html/SE266/SE266/Week6/Prototype/prototype.zip">Zip File</a></td>
+            </tr>
+            <tr>
+                <td><a href="http://ict.neit.edu/008000162/public_html/SE266/SE266/Week6/Prototype/functions.txt">Time Card Functions</a></td>
+                <td><a href="http://ict.neit.edu/008000162/public_html/SE266/SE266/Week6/Prototype/functions.txt" download>Download</a></td>
+            </tr>
+            <tr>
+                <td><a href="http://ict.neit.edu/008000162/public_html/SE266/SE266/Week6/Prototype/SQLstatements.txt">Time Card SQL Statements</a></td>
+                <td><a href="http://ict.neit.edu/008000162/public_html/SE266/SE266/Week6/Prototype/SQLstatements.txt" download>Download</a></td>
             </tr>
             <tr>
                 <td colspan="2" class="subheader"><center>Week 7</center></td>
+            </tr>
+            <tr>
+                <td><a href="http://ict.neit.edu/008000162/public_html/SE266/SE266/Week6/Final/timeCard.php">Time Card</a></td>
+                <td><a href="http://ict.neit.edu/008000162/public_html/SE266/SE266/Week6/Final/timeCard.zip">Zip File</a></td>
             </tr>
             <tr>
                 <td colspan="2" class="subheader"><center>Week 8</center></td>
