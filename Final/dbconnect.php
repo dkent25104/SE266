@@ -47,7 +47,4 @@ function getDatabase() {
     return $db;
 }
 
-$dbTest = getDatabase();
-print_r ($dbTest);
-
 ?>

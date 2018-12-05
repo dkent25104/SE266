@@ -98,10 +98,15 @@
                 <td colspan="2" class="subheader"><center>Week 8</center></td>
             </tr>
             <tr>
-                <td colspan="2" class="subheader"><center>Week 9</center></td>
+                <td><a href="http://ict.neit.edu/008000162/public_html/SE266/SE266/Week8/index.php">Disney Votes</a></td>
+                <td><a href="http://ict.neit.edu/008000162/public_html/SE266/SE266/Week8/vote.zip">Zip File</a></td>
             </tr>
             <tr>
                 <td colspan="2" class="subheader"><center>Week 10</center></td>
+            </tr>
+            <tr>
+                <td><a href="http://ict.neit.edu/008000162/public_html/SE266/SE266/Final/index.php">Final</a></td>
+                <td><a href="http://ict.neit.edu/008000162/public_html/SE266/SE266/Final/final.zip">Zip File</a></td>
             </tr>
         </table>
 		<section>

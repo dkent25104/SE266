@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Test</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+    </head>
+    <body>
+        <center>
+            <h1>Enter Your Age</h1>
+            <p>age: 
+            <input type="text" id="age" />
+            <input type="submit" id="submit" value="Check" /></p>
+        </center>
+    
+        <script type="text/javascript">
+            var checksubmit = document.querySelector("#submit");
+            var checkage = document.querySelector("#age");
+            checksubmit.addEventListener('click', check);
+            function check(e) {
+                $.post("test.php", {age:checkage.value}, function(data) {
+                    JSON.parse(data);
+                    alert (data);
+                });
+                
+            }
+            
+        </script>
+    </body>
+</html>

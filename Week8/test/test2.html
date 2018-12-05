@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <input type="submit" data-index="1" value="btn 1" />
+        <input type="submit" data-index="2" value="btn 2" />
+        <input type="submit" data-index="3" value="btn 3" />
+        
+        <script type="text/javascript">
+            var btns = document.querySelectorAll("input");
+            for (let x = 0; x < btns.length; x++)
+            {
+                btns[x].addEventListener('click', showIndex);
+            }
+            function showIndex(e) {
+                alert(this.getAttribute('data-index'));
+            }
+        </script>
+    </body>
+</html>
