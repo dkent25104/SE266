@@ -106,7 +106,7 @@
                     <tbody>
                         <?php foreach ($table as $row): ?>
                             <tr>
-                                <td><?php echo $row['CountryName']; ?></td>
+                                <td><a href="edit.php?id=<?php echo $row['CountryDetailID']; ?>"><?php echo $row['CountryName']; ?></a></td>
                                 <td><?php echo $row['CountryRegion']; ?></td>
                                 <td><?php echo $row['CountryPopulation']; ?></td>
                                 <td><?php echo $row['CountrySize']; ?></td>
